@@ -10,6 +10,4 @@ For the cancerous lesion - melanoma, basal cell carcinoma, actinic keratoses and
 
 For the non-cancerous lesion - Benign keratosis, vascular lesions, dermatofibroma
 
-We used Resnet50 model and trained it according to our dataset and received training accuracy of 94.2%
-
-For future improvements we can load the model in an application for realtime purposes.
+We used Resnet50 model and trained it according to our dataset and received training accuracy of 94.2% and for future improvements we can load the model in an application for realtime purposes.
