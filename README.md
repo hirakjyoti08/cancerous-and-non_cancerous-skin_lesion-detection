@@ -7,6 +7,7 @@ The motivation for the project "Cancerous and Non-Cancerous Skin Lesion Detectio
 We had classified our dataset into 7 classes:
 
 For the cancerous lesion - melanoma, basal cell carcinoma, actinic keratoses and melanocytic nevi
+
 For the non-cancerous lesion - Benign keratosis, vascular lesions, dermatofibroma
 
 We used Resnet50 model and trained it according to our dataset and received training accuracy of 94.2%
